@@ -1,6 +1,8 @@
 # 📋 Task Tracker API – Express.js Lab
 
-This is a 20-minute hands-on lab to practice building a RESTful API using **Express.js** and **JavaScript**.
+## 📖 Description
+
+This is a beginner-friendly **Express.js** lab designed to help students build and test a simple **RESTful API** for managing tasks. In just 20 minutes, students will create **GET**, **POST**, and **DELETE** routes using **JavaScript** and test them with Postman—reinforcing both backend fundamentals and core principles of the software development life cycle (SDLC).
 
 ---
 
@@ -10,6 +12,20 @@ This is a 20-minute hands-on lab to practice building a RESTful API using **Expr
 - How RESTful APIs work (`GET`, `POST`, `DELETE`)
 - How to test your routes using Postman
 - How to apply SDLC phases: Plan → Implement → Test → Iterate
+
+---
+
+## 🔍 Project Walkthrough
+
+This repository contains the scaffolding for a simple Express.js app that implements a RESTful Task API. Here's how it's structured:
+
+```bash
+    tasks-app/
+    ├── app.js         # Main Express app file with route definitions
+    ├── data.js        # In-memory mock data for tasks
+    ├── package.json   # Node.js project metadata and dependencies
+    └── README.md      # Lab instructions and documentation
+```
 
 ---
 
