@@ -21,7 +21,7 @@ This repository contains the scaffolding for a simple Express.js app that implem
 
 ```bash
     tasks-app/
-    ├── app.js         # Main Express app file with route definitions
+    ├── server.js         # Main Express app file with route definitions
     ├── data.js        # In-memory mock data for tasks
     ├── package.json   # Node.js project metadata and dependencies
     └── README.md      # Lab instructions and documentation
@@ -55,6 +55,8 @@ This repository contains the scaffolding for a simple Express.js app that implem
   http://localhost:8080
 ```
 
+---
+
 ## 🔌 API Endpoints
 
 | HTTP Method | Route        | Description       |
@@ -62,6 +64,8 @@ This repository contains the scaffolding for a simple Express.js app that implem
 | GET         | `/tasks`     | Get all tasks     |
 | POST        | `/tasks`     | Add a new task    |
 | DELETE      | `/tasks/:id` | Delete task by ID |
+
+---
 
 ## 💡 Extra Challenges (Stretch Goals)
 
