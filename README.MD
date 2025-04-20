@@ -41,7 +41,12 @@ This is a 20-minute hands-on lab to practice building a RESTful API using **Expr
 
 ## 🔌 API Endpoints
 
-Method Route Description
-GET /tasks Get all tasks
-POST /tasks Create a new task
-DELETE /tasks/:id Delete a task by ID
+| HTTP Method | Route        | Description       |
+| ----------- | ------------ | ----------------- |
+| GET         | `/tasks`     | Get all tasks     |
+| POST        | `/tasks`     | Add a new task    |
+| DELETE      | `/tasks/:id` | Delete task by ID |
+
+## 💡 Extra Challenges (Stretch Goals)
+
+Add a PUT /tasks/:id route to edit a task
