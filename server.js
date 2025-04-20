@@ -6,9 +6,9 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-let notes = require("./data");
+let tasks = require("./data");
 app.get("/tasks", (req, res) => {
-  res.json(notes);
+  res.json(tasks);
 });
 
 app.listen(port, () => {
