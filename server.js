@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 let notes = require("./data");
-app.get("/notes", (req, res) => {
+app.get("/tasks", (req, res) => {
   res.json(notes);
 });
 
