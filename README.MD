@@ -37,11 +37,11 @@ Ideal for: Individual Programming Activity
 
 ### ✅ 3–5 Minutes: Walk Through the Starter Code
 
-- Open server.js and show them: The GET / route
+- Open `server.js` and show them: The GET `/` route
 
 - How Express is initialized
 
-- Open data.js and explain how they’ll create a task list with:
+- Open `data.js` and explain how they’ll create a task list with:
 
 ### ✅ 5–18 Minutes: Hands-On Coding
 
@@ -51,7 +51,7 @@ Ideal for: Individual Programming Activity
 
 - Prompt students to update the SDLC column in the README as they work
 
-- Post one stretch goal midway for fast finishers (e.g., add PUT /tasks/:id)
+- Post one stretch goal midway for fast finishers (e.g., add PUT `/tasks/:id`)
 
 ### ✅ 18–20 Minutes: Wrap-Up & Reflection
 
