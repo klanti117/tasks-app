@@ -2,7 +2,7 @@
 
 ## 📖 Description
 
-This is a beginner-friendly **Express.js** lab build and test a simple **RESTful API** for managing tasks. In just 20 minutes, students will create **GET**, **POST**, and **DELETE** routes using **JavaScript** and test them with Postman—reinforcing both backend fundamentals and core principles of the software development life cycle (SDLC).
+This is a beginner-friendly **Express.js** lab to build and test a simple **RESTful API** for managing tasks. In just 20 minutes, students will create **GET**, **POST**, and **DELETE** routes using **JavaScript** and test them with Postman—reinforcing both backend fundamentals and core principles of the software development life cycle (SDLC).
 
 ---
 
@@ -20,7 +20,7 @@ This lab is designed as a 20-minute **individual** programming activity focused 
 
 - Students have been introduced to REST APIs, even if conceptually
 
-Students have Postman or a similar tool installed for testing routes
+- Students have Postman or a similar tool installed for testing routes
 
 # ⏱️ Time Constraints & Scope
 
@@ -123,3 +123,12 @@ From the list below, some tasks are already completed in the starter code. As yo
 | 12. (Extra Credit) Refactor the code to follow DRY principles and improve clarity | {Your Answer}           |
 
 ---
+
+## 🎉 All the Best!
+
+You've got this! 🚀
+This lab is your chance to get hands-on with Express.js and understand the foundations of building RESTful APIs. Don’t worry about getting everything perfect on the first try — focus on learning, experimenting, and thinking through how each part of the app connects.
+
+Keep practicing, stay curious, and don’t forget to push your work to GitHub!
+
+Happy coding! 💻✨
