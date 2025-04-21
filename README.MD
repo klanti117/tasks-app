@@ -6,6 +6,36 @@ This is a beginner-friendly **Express.js** lab build and test a simple **RESTful
 
 ---
 
+## 🧠 Assumptions & Lab Design
+
+This lab is designed as a 20-minute **individual** programming activity focused on building and testing basic RESTful routes using Express.js.
+
+# 📚 Assumptions About Student Knowledge:
+
+- Students have basic knowledge of JavaScript syntax (variables, arrays, objects, functions)
+
+- Students are comfortable running a Node.js project (npm install, node app.js)
+
+- Students understand basic HTTP concepts (GET, POST, DELETE) and the idea of a request/response cycle
+
+- Students have been introduced to REST APIs, even if conceptually
+
+Students have Postman or a similar tool installed for testing routes
+
+# ⏱️ Time Constraints & Scope
+
+Since RESTful API development is a large topic, this lab focuses on core concepts only:
+
+- Understanding the pieces needed to create an Express server
+
+- Defining simple routes (GET, POST, DELETE)
+
+- Managing in-memory data (no database)
+
+- Identifying SDLC phases within a short development cycle
+
+---
+
 ## 🧠 What You'll Learn
 
 - How to use Express.js to build a simple backend
@@ -75,7 +105,7 @@ Here's how it's structured:
 
 ## 🧪 Lab Tasks
 
-From the list below, some tasks are already completed in the starter code. As you review each task, identify which phase of the Software Development Life Cycle (SDLC) it belongs to.
+From the list below, some tasks are already completed in the starter code. As you complete or review each task, modify the `README.md` file to identify which Software Development Life Cycle (SDLC) phase it falls under.
 
 | Tasks                                                                             | Identity the SDLC Phase |
 | --------------------------------------------------------------------------------- | ----------------------- |
@@ -88,8 +118,8 @@ From the list below, some tasks are already completed in the starter code. As yo
 | 7. (Pending) Build a a `POST /tasks/new` route to add a new task                  | {Your Answer}           |
 | 8. (Pending) Build a DELETE `/tasks/:id` route to remove a task by ID             | {Your Answer}           |
 | 9. (Pending) Test all routes using Postman or browser                             | {Your Answer}           |
-| 10. (Extra Credit) (Stretch) Add a `PUT /tasks/:id` route to update a task        | {Your Answer}           |
-| 11. (Extra Credit) Add a `PUT /tasks/:id` route to update a task                  | {Your Answer}           |
+| 10. (Extra Credit) Add a `PUT /tasks/:id` route to update a task                  | {Your Answer}           |
+| 11.(Extra Credit) Add a `PUT /tasks/:id` route to update a task                   | {Your Answer}           |
 | 12. (Extra Credit) Refactor the code to follow DRY principles and improve clarity | {Your Answer}           |
 
 ---
