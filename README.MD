@@ -33,6 +33,8 @@ Ideal for: Individual Programming Activity
 
 - Briefly explain Express.js and REST APIs
 
+- Go over the software development life cycle (SDLC) phases
+
 - Highlight that the server scaffolding is already set up, and they’ll be extending it.
 
 ### ✅ 3–5 Minutes: Walk Through the Starter Code
