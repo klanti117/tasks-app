@@ -6,7 +6,7 @@ This is a beginner-friendly **Express.js** lab to build and test a simple **REST
 
 ---
 
-## 🧠 Assumptions & Lab Design
+## 🧠 Assumptions
 
 This lab is designed as a 20-minute **individual** programming activity focused on building and testing basic RESTful routes using Express.js.
 
@@ -148,8 +148,7 @@ From the list below, some tasks are already completed in the starter code. As yo
 | 8. (Pending) Build a DELETE `/tasks/:id` route to remove a task by ID             | {Your Answer}           |
 | 9. (Pending) Test all routes using Postman or browser                             | {Your Answer}           |
 | 10. (Extra Credit) Add a `PUT /tasks/:id` route to update a task                  | {Your Answer}           |
-| 11.(Extra Credit) Add a `PUT /tasks/:id` route to update a task                   | {Your Answer}           |
-| 12. (Extra Credit) Refactor the code to follow DRY principles and improve clarity | {Your Answer}           |
+| 11. (Extra Credit) Refactor the code to follow DRY principles and improve clarity | {Your Answer}           |
 
 ---
 
