@@ -14,7 +14,7 @@ This lab is designed as a 20-minute **individual** programming activity focused 
 
 - Students have basic knowledge of JavaScript syntax (variables, arrays, objects, functions)
 
-- Students are comfortable running a Node.js project (npm install, node app.js)
+- Students are comfortable running a Node.js project (npm install, node app.js) as well as have Node and npm installed in their machine
 
 - Students understand basic HTTP concepts (GET, POST, DELETE) and the idea of a request/response cycle
 
@@ -22,17 +22,44 @@ This lab is designed as a 20-minute **individual** programming activity focused 
 
 - Students have Postman or a similar tool installed for testing routes
 
-# ⏱️ Time Constraints & Scope
+---
 
-Since RESTful API development is a large topic, this lab focuses on core concepts only:
+## 🧑‍🏫 Class Facilitation Plan
 
-- Understanding the pieces needed to create an Express server
+🕐 Total Lab Time: 20 Minutes
+Ideal for: Individual Programming Activity
 
-- Defining simple routes (GET, POST, DELETE)
+# ✅ 0–3 Minutes: Kickoff & Context
 
-- Managing in-memory data (no database)
+- Briefly explain Express.js and REST APIs
 
-- Identifying SDLC phases within a short development cycle
+- Highlight that the server scaffolding is already set up, and they’ll be extending it.
+
+# ✅ 3–5 Minutes: Walk Through the Starter Code
+
+- Open server.js and show them: The GET / route
+
+- How Express is initialized
+
+- Open data.js and explain how they’ll create a task list with:
+
+# ✅ 5–18 Minutes: Hands-On Coding
+
+- Students start working through the lab tasks
+
+- Encourage frequent testing using Postman
+
+- Prompt students to update the SDLC column in the README as they work
+
+- Post one stretch goal midway for fast finishers (e.g., add PUT /tasks/:id)
+
+# ✅ 18–20 Minutes: Wrap-Up & Reflection
+
+Ask students:
+
+- What phase of SDLC were you just working in?
+
+- Remind them to push to GitHub and submit the link
 
 ---
 
@@ -63,7 +90,9 @@ Here's how it's structured:
 
 ---
 
-## 📦 Setup Instructions
+## 📦 Setup Instructions:
+
+**🚨 Important:** Make sure you have `Node` installed
 
 1. Clone this repository:
 
