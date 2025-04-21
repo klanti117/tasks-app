@@ -49,11 +49,12 @@ Here's how it's structured:
    ```
 
 3. Run the server:
+
    ```bash
    npm run devStart
    ```
 
-4.Visit the server at:
+4. Visit the server at:
 
 ```bash
   http://localhost:8080
@@ -66,7 +67,7 @@ Here's how it's structured:
 | HTTP Method | Route        | Description                                |
 | ----------- | ------------ | ------------------------------------------ |
 | GET         | `/tasks`     | Get all tasks                              |
-| GET         | `/tasks/new` | Renders a simple form to create a new user |
+| GET         | `/tasks/new` | Renders a simple form to create a new task |
 | POST        | `/tasks/new` | Add a new task                             |
 | DELETE      | `/tasks/:id` | Delete task by ID                          |
 
@@ -76,18 +77,19 @@ Here's how it's structured:
 
 From the list below, some tasks are already completed in the starter code. As you review each task, identify which phase of the Software Development Life Cycle (SDLC) it belongs to.
 
-| Tasks | Identity the SDLC Phase |
-| 1. (Done) Initialize a Node.js project with `npm init` | {Your Answer} |
-| 2. (Done) Install Express (`npm install express`) | {Your Answer} |
-| 3. (Done) Set up `server.js` and configure a basic Express server | {Your Answer} |
-| 4. (Pending) Create an in-memory array of tasks (in `data.js`) | {Your Answer} |
-| 5. (Pending) Build a `GET /tasks` route to return all tasks | {Your Answer} |
-| 6. (Pending) Build a `GET /tasks/new` route to render a basic form to add a task | {Your Answer} |
-| 7. (Pending) Build a a `POST /tasks/new` route to add a new task | {Your Answer} |
-| 8. (Pending) Build a DELETE `/tasks/:id` route to remove a task by ID | {Your Answer} |
-| 9. (Pending) Test all routes using Postman or browser | {Your Answer} |
-| 10. (Extra Credit) (Stretch) Add a `PUT /tasks/:id` route to update a task | {Your Answer} |
-| 11. (Extra Credit) Add a `PUT /tasks/:id` route to update a task | {Your Answer} |
-| 12. (Extra Credit) Refactor the code to follow DRY principles and improve clarity | {Your Answer} |
+| Tasks                                                                             | Identity the SDLC Phase |
+| --------------------------------------------------------------------------------- | ----------------------- |
+| 1. (Done) Initialize a Node.js project with `npm init`                            | {Your Answer}           |
+| 2. (Done) Install Express (`npm install express`)                                 | {Your Answer}           |
+| 3. (Done) Set up `server.js` and configure a basic Express server                 | {Your Answer}           |
+| 4. (Pending) Create an in-memory array of tasks (in `data.js`)                    | {Your Answer}           |
+| 5. (Pending) Build a `GET /tasks` route to return all tasks                       | {Your Answer}           |
+| 6. (Pending) Build a `GET /tasks/new` route to render a basic form to add a task  | {Your Answer}           |
+| 7. (Pending) Build a a `POST /tasks/new` route to add a new task                  | {Your Answer}           |
+| 8. (Pending) Build a DELETE `/tasks/:id` route to remove a task by ID             | {Your Answer}           |
+| 9. (Pending) Test all routes using Postman or browser                             | {Your Answer}           |
+| 10. (Extra Credit) (Stretch) Add a `PUT /tasks/:id` route to update a task        | {Your Answer}           |
+| 11. (Extra Credit) Add a `PUT /tasks/:id` route to update a task                  | {Your Answer}           |
+| 12. (Extra Credit) Refactor the code to follow DRY principles and improve clarity | {Your Answer}           |
 
 ---
