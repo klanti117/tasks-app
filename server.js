@@ -3,12 +3,9 @@ const app = express();
 const port = 8080;
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
-
-let tasks = require("./data");
-app.get("/tasks", (req, res) => {
-  res.json(tasks);
+  res.send(
+    "Welcome CTP students ! You will be building an Express.js app and test a simple RESTful API for managing tasks"
+  );
 });
 
 app.listen(port, () => {
