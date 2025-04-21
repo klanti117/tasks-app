@@ -10,7 +10,7 @@ This is a beginner-friendly **Express.js** lab to build and test a simple **REST
 
 This lab is designed as a 20-minute **individual** programming activity focused on building and testing basic RESTful routes using Express.js.
 
-# 📚 Assumptions About Student Knowledge:
+### 📚 Assumptions About Student Knowledge:
 
 - Students have basic knowledge of JavaScript syntax (variables, arrays, objects, functions)
 
@@ -29,13 +29,13 @@ This lab is designed as a 20-minute **individual** programming activity focused 
 🕐 Total Lab Time: 20 Minutes
 Ideal for: Individual Programming Activity
 
-# ✅ 0–3 Minutes: Kickoff & Context
+### ✅ 0–3 Minutes: Kickoff & Context
 
 - Briefly explain Express.js and REST APIs
 
 - Highlight that the server scaffolding is already set up, and they’ll be extending it.
 
-# ✅ 3–5 Minutes: Walk Through the Starter Code
+### ✅ 3–5 Minutes: Walk Through the Starter Code
 
 - Open server.js and show them: The GET / route
 
@@ -43,7 +43,7 @@ Ideal for: Individual Programming Activity
 
 - Open data.js and explain how they’ll create a task list with:
 
-# ✅ 5–18 Minutes: Hands-On Coding
+### ✅ 5–18 Minutes: Hands-On Coding
 
 - Students start working through the lab tasks
 
@@ -53,7 +53,7 @@ Ideal for: Individual Programming Activity
 
 - Post one stretch goal midway for fast finishers (e.g., add PUT /tasks/:id)
 
-# ✅ 18–20 Minutes: Wrap-Up & Reflection
+### ✅ 18–20 Minutes: Wrap-Up & Reflection
 
 Ask students:
 
